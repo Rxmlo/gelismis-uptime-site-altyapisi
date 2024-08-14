@@ -1,9 +1,9 @@
 {
-    "token": "bot_token",
-    "clientID": "client_Id",
-    "clientSecret": "client_secret",
+    "token": "MTI2MzA2NTU2ODQxNjg5NTEzNw.GyWK9C.4siLMDyP9KxnCSu8NuRfcEiGjBAzB7kXlOXxgc ",
+    "clientID": "1263065568416895137",
+    "clientSecret": "ESI7Pa4A_gn4nH-9OTI_2W4RxcK4Eh1j",
     "callbackUrl": "sitelinkiniz/callback",
     "ownerRoleId": "owner_rol_id",
-    "guildId": "server_id",
-    "logChannelId": "log_kanal_id"
+    "guildId": "1271800221256519794",
+    "logChannelId": "1272269782686630002"
 }
